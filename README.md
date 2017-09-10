@@ -1,5 +1,5 @@
-# sortDemo
-Kinetic scroll in Qt.
+# kineticScroll
+Kinetic scrolling in Qt.
 
 ![alt text](./kineticScroll.png)
 
