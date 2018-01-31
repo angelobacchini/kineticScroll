@@ -10,6 +10,8 @@ class scroller : public QWidget
 public:
   explicit scroller(QGraphicsView* _view, QWidget* parent = 0);
   ~scroller();
+  scroller(scroller const&) = delete;
+  scroller& operator=(scroller const&) = delete;
 
 private slots:
   void process();

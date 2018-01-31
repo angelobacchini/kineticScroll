@@ -48,6 +48,8 @@ class myWidget : public QWidget
 public:
   explicit myWidget(QWidget* parent = 0);
   virtual ~myWidget();
+  myWidget(myWidget const&) = delete;
+  myWidget& operator=(myWidget const&) = delete;
 
 private:
   QGraphicsPixmapItem* m_graphicsItem;
