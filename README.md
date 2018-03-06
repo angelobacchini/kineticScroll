@@ -3,7 +3,7 @@ Kinetic scrolling in Qt.
 
 ![alt text](./kineticScroll.png)
 
-## See full description at [angelobacchini.github.io](https://angelobacchini.github.io/software%20projects/kinetic-scroll-in-qt)
+## See full description at [angelobacchini.github.io](https://angelobacchini.github.io/2017/09/08/kineticScroll.html)
 
 ---
 
