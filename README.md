@@ -1,6 +1,8 @@
 # kineticScroll
 Kinetic scrolling in Qt.
 
+[![Video](pics/thumb.png)](https://youtu.be/MCXTeE5Lerc)
+
 Kinetic scrolling adds a momentum effect and elastic edge to traditional scrolling. It feels like spinning a prize wheel: when you lift your hand and stop moving the wheel, it will continue to spin for a while until eventually lose momentum and stop. 
 
 I think kinetic scrolling first came out with the iPhone, to later being adopted on practically every touch-screen device. I tried to imagine what would be a simple implementation of it and wrote some C++ code in Qt.
